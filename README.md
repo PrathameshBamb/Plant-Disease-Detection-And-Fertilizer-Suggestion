@@ -35,3 +35,4 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/PrathameshBamb/Plant-Disease-Detection-And-Fertilizer-Suggestion.git
 cd Plant-Disease-Detection-And-Fertilizer-Suggestion
+```
